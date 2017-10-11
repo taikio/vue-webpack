@@ -1,6 +1,6 @@
 # Vue-Webpack
 
-Exemplo de projeto com VueJS 2.0 e Webpack
+Exemplo de projeto com VueJS 2.0, Vue-router e Webpack
 
 ## Começando
 
